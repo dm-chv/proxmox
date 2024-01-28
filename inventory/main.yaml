@@ -1,0 +1,5 @@
+---
+proxmox:
+  hosts:
+    proxmox-01:
+      ansible_host: 51.250.6.192
